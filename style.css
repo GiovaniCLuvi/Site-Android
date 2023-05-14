@@ -49,7 +49,7 @@ header {
 }
 
 #subt {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     padding-bottom: 10px;
 }
 
@@ -144,7 +144,7 @@ section h2 {
 #pp {
     padding-top: 30px;
     padding-bottom: 30px;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
 }
 #you {
     color: white;
@@ -161,6 +161,10 @@ aside {
     border-radius: 10px;
     padding-left: 20px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.26);
+}
+
+aside > p {
+    padding-right: 25px;
 }
 
 aside ul {
